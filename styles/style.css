@@ -1,0 +1,23 @@
+
+
+#background {
+    display: grid;
+    grid-template-columns: repeat(4, 25vw);
+}
+
+#background ul {
+    width: 100%;
+}
+
+.image {
+    width: 90%;
+    object-fit: cover;
+}
+
+.intended li {
+    width: 300px;
+}
+
+.intended dd {
+    width: 300px;
+}
